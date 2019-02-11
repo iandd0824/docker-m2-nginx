@@ -1,4 +1,4 @@
-FROM nginx:1.13
+FROM nginx:1.15
 MAINTAINER Danny Fu <iandd0824@gmail.com>
 
 ENV PHP_HOST phpfpm
